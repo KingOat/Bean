@@ -1,0 +1,18 @@
+[project]
+name = "Bean_Game_Engine"
+version = "0.0.1"
+authors = [
+    { name = "Amine Maazizi", email="Aminema1000@gmail.com"}
+]
+description = "A Python Game Engine"
+readme = "README.md"
+license = { file="LICENSE.md" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Apache License",
+    "Operating System :: Windows"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/KingOat/Bean"
