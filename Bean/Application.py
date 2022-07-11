@@ -7,3 +7,8 @@ class Application:
     def Run(self):
         while True:
             pass
+
+
+__all__ = [
+    "Application"
+]

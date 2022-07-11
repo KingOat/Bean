@@ -14,5 +14,7 @@ classifiers = [
     "Operating System :: Windows"
 ]
 
+[dependencies]
+
 [project.urls]
 "Homepage" = "https://github.com/KingOat/Bean"
